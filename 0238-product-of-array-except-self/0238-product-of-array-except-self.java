@@ -24,20 +24,6 @@ class Solution {
             }
         }
 
-
-
-
-
-
-        // for(int i=0;i<len;i++){
-        //     int mul=1;
-        //     for(int j=0;j<len;j++){
-        //         if(j!=i){
-        //             mul=mul*nums[j];
-        //         }
-        //     }
-        //     answer[i]=mul;
-        // }
         return answer;
         
     }
