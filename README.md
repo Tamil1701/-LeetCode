@@ -22,6 +22,7 @@ My LeetCode Solutions
 | [0029-divide-two-integers](https://github.com/Tamil1701/LeetCode/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/Tamil1701/LeetCode/tree/master/0204-count-primes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tamil1701/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil1701/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ My LeetCode Solutions
 | [0238-product-of-array-except-self](https://github.com/Tamil1701/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Tamil1701/LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tamil1701/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil1701/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Greedy
 |  |
 | ------- |
