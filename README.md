@@ -19,6 +19,7 @@ My LeetCode Solutions
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Tamil1701/LeetCode/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/Tamil1701/LeetCode/tree/master/0204-count-primes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tamil1701/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
@@ -48,4 +49,8 @@ My LeetCode Solutions
 |  |
 | ------- |
 | [1877-find-followers-count](https://github.com/Tamil1701/LeetCode/tree/master/1877-find-followers-count) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Tamil1701/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
