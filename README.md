@@ -44,4 +44,8 @@ My LeetCode Solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Tamil1701/LeetCode/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [1877-find-followers-count](https://github.com/Tamil1701/LeetCode/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
