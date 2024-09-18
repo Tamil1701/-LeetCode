@@ -14,6 +14,7 @@ My LeetCode Solutions
 | ------- |
 | [0058-length-of-last-word](https://github.com/Tamil1701/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Tamil1701/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Tamil1701/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tamil1701/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tamil1701/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Tamil1701/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -58,4 +59,12 @@ My LeetCode Solutions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Tamil1701/LeetCode/tree/master/0029-divide-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Tamil1701/LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Tamil1701/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
