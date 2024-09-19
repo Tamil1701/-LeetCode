@@ -6,6 +6,7 @@ My LeetCode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tamil1701/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Tamil1701/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Tamil1701/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tamil1701/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -29,6 +30,7 @@ My LeetCode Solutions
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tamil1701/LeetCode/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/Tamil1701/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Tamil1701/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Tamil1701/LeetCode/tree/master/0283-move-zeroes) |
@@ -68,5 +70,6 @@ My LeetCode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tamil1701/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Tamil1701/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
