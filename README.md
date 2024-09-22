@@ -64,6 +64,7 @@ My LeetCode Solutions
 |  |
 | ------- |
 | [1877-find-followers-count](https://github.com/Tamil1701/LeetCode/tree/master/1877-find-followers-count) |
+| [2087-confirmation-rate](https://github.com/Tamil1701/LeetCode/tree/master/2087-confirmation-rate) |
 ## Bit Manipulation
 |  |
 | ------- |
