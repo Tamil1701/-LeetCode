@@ -6,6 +6,7 @@ My LeetCode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tamil1701/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Tamil1701/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Tamil1701/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Tamil1701/LeetCode/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ My LeetCode Solutions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tamil1701/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Tamil1701/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tamil1701/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Tamil1701/LeetCode/tree/master/0204-count-primes) |
@@ -46,6 +48,7 @@ My LeetCode Solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tamil1701/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Tamil1701/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Tamil1701/LeetCode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
