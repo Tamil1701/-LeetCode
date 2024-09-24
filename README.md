@@ -13,6 +13,7 @@ My LeetCode Solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/Tamil1701/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Tamil1701/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Tamil1701/LeetCode/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Tamil1701/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Tamil1701/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -44,6 +45,7 @@ My LeetCode Solutions
 | [0334-increasing-triplet-subsequence](https://github.com/Tamil1701/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Tamil1701/LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tamil1701/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Tamil1701/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil1701/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Greedy
 |  |
@@ -78,12 +80,14 @@ My LeetCode Solutions
 | ------- |
 | [0169-majority-element](https://github.com/Tamil1701/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Tamil1701/LeetCode/tree/master/0242-valid-anagram) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Tamil1701/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tamil1701/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tamil1701/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Tamil1701/LeetCode/tree/master/0242-valid-anagram) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Tamil1701/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
