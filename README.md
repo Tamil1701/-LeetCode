@@ -44,6 +44,7 @@ My LeetCode Solutions
 | [0283-move-zeroes](https://github.com/Tamil1701/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Tamil1701/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Tamil1701/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Tamil1701/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tamil1701/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamil1701/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil1701/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -100,4 +101,8 @@ My LeetCode Solutions
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Tamil1701/LeetCode/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Tamil1701/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
