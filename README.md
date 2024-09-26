@@ -45,6 +45,7 @@ My LeetCode Solutions
 | [0334-increasing-triplet-subsequence](https://github.com/Tamil1701/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Tamil1701/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tamil1701/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Tamil1701/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tamil1701/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamil1701/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil1701/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -81,6 +82,7 @@ My LeetCode Solutions
 | ------- |
 | [0169-majority-element](https://github.com/Tamil1701/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Tamil1701/LeetCode/tree/master/0242-valid-anagram) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Tamil1701/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamil1701/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
