@@ -73,6 +73,7 @@ My LeetCode Solutions
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Tamil1701/LeetCode/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/Tamil1701/LeetCode/tree/master/1390-average-selling-price) |
 | [1877-find-followers-count](https://github.com/Tamil1701/LeetCode/tree/master/1877-find-followers-count) |
 | [2087-confirmation-rate](https://github.com/Tamil1701/LeetCode/tree/master/2087-confirmation-rate) |
 ## Bit Manipulation
