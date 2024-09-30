@@ -49,6 +49,7 @@ My LeetCode Solutions
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tamil1701/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tamil1701/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamil1701/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/Tamil1701/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil1701/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Greedy
 |  |
@@ -61,6 +62,7 @@ My LeetCode Solutions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tamil1701/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Tamil1701/LeetCode/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/Tamil1701/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Enumeration
 |  |
 | ------- |
