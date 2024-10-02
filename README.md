@@ -46,6 +46,7 @@ My LeetCode Solutions
 | [0605-can-place-flowers](https://github.com/Tamil1701/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tamil1701/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Tamil1701/LeetCode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/Tamil1701/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamil1701/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tamil1701/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tamil1701/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -63,6 +64,7 @@ My LeetCode Solutions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tamil1701/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Tamil1701/LeetCode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/Tamil1701/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Tamil1701/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Enumeration
 |  |
@@ -114,4 +116,9 @@ My LeetCode Solutions
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Tamil1701/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Tamil1701/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Tamil1701/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
