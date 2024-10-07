@@ -79,6 +79,7 @@ My LeetCode Solutions
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/Tamil1701/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/Tamil1701/LeetCode/tree/master/0620-not-boring-movies) |
 | [1155-product-sales-analysis-iii](https://github.com/Tamil1701/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Tamil1701/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
