@@ -27,6 +27,7 @@ My LeetCode Solutions
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tamil1701/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tamil1701/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Tamil1701/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Tamil1701/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Math
 |  |
 | ------- |
