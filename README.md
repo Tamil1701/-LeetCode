@@ -41,6 +41,7 @@ My LeetCode Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tamil1701/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Tamil1701/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamil1701/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Tamil1701/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Tamil1701/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Tamil1701/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -120,6 +121,7 @@ My LeetCode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamil1701/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Tamil1701/LeetCode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tamil1701/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
