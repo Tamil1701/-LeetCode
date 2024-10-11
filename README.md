@@ -31,6 +31,7 @@ My LeetCode Solutions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Tamil1701/LeetCode/tree/master/0029-divide-two-integers) |
+| [0172-factorial-trailing-zeroes](https://github.com/Tamil1701/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Tamil1701/LeetCode/tree/master/0204-count-primes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tamil1701/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tamil1701/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
