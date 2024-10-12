@@ -39,6 +39,7 @@ My LeetCode Solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tamil1701/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tamil1701/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Tamil1701/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamil1701/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -98,6 +99,7 @@ My LeetCode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tamil1701/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Tamil1701/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Tamil1701/LeetCode/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamil1701/LeetCode/tree/master/1319-unique-number-of-occurrences) |
