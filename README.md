@@ -31,6 +31,7 @@ My LeetCode Solutions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Tamil1701/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Tamil1701/LeetCode/tree/master/0029-divide-two-integers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tamil1701/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Tamil1701/LeetCode/tree/master/0204-count-primes) |
